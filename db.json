@@ -1,0 +1,32 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "username": "Muten Roshi",
+            "email": "mutenroshi@mail.com",
+            "password": "123456",
+            "role": "agent"
+        },
+        {
+            "id": 2,
+            "username": "Bulma",
+            "email": "bulma@mail.com",
+            "password": "123456",
+            "role": "super-agent"
+        },
+        {
+            "id": 3,
+            "username": "Son Goku",
+            "email": "songoku@mail.com",
+            "password": "123456",
+            "role": "agent"
+        },
+        {
+            "id": 4,
+            "username": "Piccolo",
+            "email": "piccolodaimao@mail.com",
+            "password": "123456",
+            "role": "agent"
+        }
+    ]
+}
